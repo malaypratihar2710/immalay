@@ -3,6 +3,9 @@
     padding: 0px;
     margin: 0px;
 }
+body{
+    width: 100vw;
+}
 
 .parent{
     height: 450px;
@@ -31,4 +34,10 @@
     border-radius: 50%;
     background-color: blue;
     margin: auto;
+}
+.grand{
+    width: 1px;
+    height: 800px;
+    border: 2px black solid;
+    margin-left: 50px;
 }
