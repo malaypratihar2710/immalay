@@ -1,0 +1,34 @@
+*{ 
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.parent{
+    height: 450px;
+    width: 800px;
+     border: 2px black solid;
+}
+
+.color{
+    height: 150px;
+    border: 2px black solid;
+}
+.red{
+    background-color: orange;
+}
+.white{
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+#chakra{
+    height: 150px;
+    width: 150px;
+    border: 2px black solid;
+
+    border-radius: 50%;
+    background-color: blue;
+    margin: auto;
+}
